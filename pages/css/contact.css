@@ -1,0 +1,25 @@
+.banner-contact .container .row{
+	background: url(../images/zipify-contact-banner.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 15px 20px;
+	height: 510px;
+	width: 90%;
+	margin: auto;
+	padding-top: 65px;
+}
+.banner-contact{
+	margin: 34px 0 95px !important;
+}
+.banner-contact .zipify-logo{
+	width: 200px;
+}
+.banner-contact p{
+	color: black !important;
+}
+.banner-contact a{
+	color: #4ee161 !important;
+}
+.banner-contact a:hover{
+	color: #55ba62 !important;
+}

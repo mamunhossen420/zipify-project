@@ -1,0 +1,20 @@
+.banner-section{
+	background-image: none !important;
+	background-color: #F3F3F3;
+}
+.sm-pad {
+    /* padding-left: 8rem !important; */
+}
+.banner-section img{
+    max-width: 72%;
+}
+.sm-pad h2{
+   color: #00B261 !important;
+   font-size: 37px;
+   font-weight: 800;
+}
+.sm-pad p{
+   color: #75757D !important;
+   font-size: 17px;
+   font-weight: 500;
+}

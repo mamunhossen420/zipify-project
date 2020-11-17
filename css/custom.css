@@ -1,0 +1,130 @@
+
+a{
+    text-decoration: none !important;
+    color: #C6C5CB !important;
+} 
+img{
+    max-width: 100%;
+}
+/****for main nav menu******/
+
+.navbar-brand img{
+    width: 150px;
+    padding:10px 0;
+}
+.navbar-collapse .nav-item{
+    padding: 0 5px !important;
+}
+.navbar-collapse .nav-link{
+    font-size: 18px;
+    color: #79797c !important;
+    padding: 0 10px !important;
+    transition-duration: .4s !important;
+}
+.navbar-collapse .nav-link:hover {
+    border-bottom: 3px solid #00B35C;
+    color: #00B35C !important;
+}
+/****banner section******/
+.fs-banner{
+    font-size: 17px;
+    font-weight: 500;
+}
+.banner-section{
+    background: url(../images/banner-bg.svg),
+     linear-gradient(136.73deg, rgb(77, 140, 224) 5.52%, rgb(51 54 59 / 99%) 72.57%);
+    background: 
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    max-width: 100%;
+}
+img.banner-img{
+    object-fit: cover;
+}
+/***for Ecommerce Tools to Grow Your Business btn***/
+.learn-more{
+    background: #00B357;
+    color: white !important;
+    font-weight: bold;
+    font-size: 17px !important;
+    padding-left:5rem;
+    padding-right: 5rem;
+    transition-duration: .4s;
+}
+.learn-more:hover{
+    transform: translateY(-5px);
+}
+/***for Ecommerce Tools to Grow Your Business btn end***/
+.py-3.banner-btn{
+    padding-right: 6rem !important;
+    padding-left: 6rem !important;
+}
+/****ecommarch-section******/
+.ecommarch-section{
+    background: #FAFAFA;
+}
+/***products-sectiont*****/
+.products-section{
+    padding: 60px 0;
+    padding-bottom: 155px;
+}
+.products-section img{
+    padding:5rem 7rem;
+    width: 100%;
+}
+.products-section h2{
+    color: #575960;
+}
+.products-section .ps-img-2{
+    padding: 96px 70px;
+}
+strong.text-secondary{
+    font-size: 20px;
+}
+.px-custom-pr{
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+/***footer menu copyright*****/
+footer{
+    background: #F2F1F1;
+}
+.container.footer-menu ul li a {
+    font-size: 17px;
+    font-weight: bold;
+    color: #969399 !important;
+}
+.container.footer-menu ul li {
+    padding: 9px 0;
+}
+.container.copyright ul li {
+    display: inline-block !important;
+    padding: 0 4px !important;
+}
+.container.copyright ul li a{
+    font-weight: 400;
+}
+.container.copyright ul li i{
+    padding: 0 6px !important;
+}
+.width-maintain{
+    width: 92% !important;
+}
+.width-maintain hr {
+    margin-left: 75px !important;
+}
+section.ecommarch-section.py-5 {
+    padding: 75px 0 !important;
+}
+section.ecommarch-section h2{
+    color: #00B357 !important;
+    font-weight: 700;
+}
+p{
+    line-height: 2;
+    color: #87878E;
+    font-size: 17px;
+    font-weight: 400;
+}
+

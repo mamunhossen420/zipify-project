@@ -1,0 +1,247 @@
+@media (max-width: 576px){
+	.products-section img {
+    padding: 5rem 4rem !important;
+}
+}
+
+@media (max-width: 768px){
+.container-sm-12 {
+    max-width: 99% !important;
+}
+.md-12 {
+    padding: 0px 0px !important;
+}
+.sm-pad{
+	
+}
+.sm-padd{
+	padding-left: 10px !important;
+}
+.products-section p{
+	max-width: 80% !important;
+	margin: auto;
+}
+.banner-section li{
+	font-weight: 300 !important;
+}
+p, li{
+	padding-right: 0;
+	font-size: 20px;
+	font-weight: 400;
+}
+.products-section img {
+    width: 90% !important;
+}
+.width-maintain .row .float-right{
+	float: none !important;
+	padding-top: 15px;
+}
+/****for contact page**********/
+.banner-contact .container .row {
+    width: 100%;
+}
+
+section.banner-contact {
+    padding-right: 3px !important;
+    padding-left: 3px !important;
+}
+/***for contact page end*******/
+/***index page ****/
+* {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+section.banner-section.py-5 {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+a.indx-all-btn,
+.banner-section a.indx-all-btn
+{
+	padding-right: 3rem !important;
+	padding-left: 3rem !important;
+}
+.container.container-sm-12.md-12 {
+    padding-left: 1px !important;
+    padding-right: 1px !important;
+}
+section.products-section.pb-5 {
+    padding-left: 1px !important;
+    padding-right: 1px !important;
+}
+.col-xxl-8.col-xl-8.col-lg-10.col-md-12.col-sm-12 {
+    padding-right: 1px;
+    padding-left: 1px;
+}
+
+p.pb-2 {
+    text-align: justify;
+    padding: 0px 6px !important;
+}
+
+.col-xxl-5.col-xl-5.col-lg-5.col-md-5.col-sm-12.pb-5 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.col-xxl-5.col-xl-5.col-lg-5.col-md-5.col-sm-12 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+p.pt-4.pb-3.text-left {
+    margin-left: 13px !important;
+    margin-right: 13px !important;
+    max-width: 100% !important;
+    text-align: justify !important;
+}
+
+img.border.border-secondary.ps-img-2 {
+    width: 95% !important;
+}
+
+img.border.border-secondary {
+    width: 95% !important;
+    padding: 100px 115px;
+}
+
+.container.container-sm-.md-12 {
+    padding-left: 1px !important;
+    padding-right: 1px !important;
+}
+
+.container.footer-menu.md-12 {
+    padding-left: 1px !important;
+    padding-right: 1px !important;
+}
+
+.width-maintain {
+    padding-left: 1px !important;
+    padding-right: 1px !important;
+}
+
+.container.copyright {
+    padding-left: 1px !important;
+    padding-right: 1px !important;
+}
+p {}
+
+.sm-pad.col-xxl-5.col-xl-6.col-lg-6.col-md-6.col-sm-12 p {
+    text-align: center;
+}
+
+.banner-section h2, .testimonial-section h2 {
+    text-align: center;
+}
+
+section.testimonial-section.py-5 {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}
+
+.testimonial-section p {
+    text-align: justify;
+}
+
+.banner-img.col-xxl-5.col-xl-6.col-lg-6.col-md-5.col-sm-12 {
+}
+
+.banner-img.col-xxl-5.col-xl-6.col-lg-6.col-md-5.col-sm-12 {
+}
+
+img {}
+
+.banner-img.col-xxl-5.col-xl-6.col-lg-6.col-md-5.col-sm-12 {}
+
+.sm-pad.col-xxl-5.col-xl-6.col-lg-6.col-md-7.col-sm-12.pt-5 {
+    padding: 0;
+    padding-top: 0px !important;
+}
+
+h2.py-3.pt-5 {
+    padding-top: 25px !important;
+}
+
+section.testimonial-section.py-5 {
+    padding-bottom: 0 !important;
+}
+
+section.subscribe-section.text-white.py-5 {
+    padding: 0 !important;
+    padding-top: 35px !important;
+    padding-bottom: 35px !important;
+}
+
+.col-xxl-8.col-xl-10.col-lg-11.col-md-12.col-sm-12.text-white {padding-left: 0;padding-right: 0;}
+
+h1.pb-3.pb-5 {font-size: 24px;font-weight: 400;}
+
+h4.pt-3.pb-1 {
+    font-size: 20px;
+    font-weight: 300;
+}
+/***about page ----------***/
+.banner-section .banner-img{
+	display: none;
+}
+.banner-section .py-5{
+	padding-top: 0 !important;
+}
+
+section{
+	padding-right: 34px !important;
+	padding-left: 9px;
+}
+.subscribe-section .pl-custom-input {
+    padding-left: 0px !important;
+    padding: 0 15px !important;
+    height: 60px;
+    margin-bottom: 40px;
+}
+.subscribe-section .subs-btn{
+	text-align: center;
+	width: 70%;
+}
+.subscribe-section a.learn-more {
+	padding-left: 2rem;
+	padding-right: 2rem;
+	font-size: 8px !important;
+}
+/***about page ----------***/
+}
+@media (max-width: 992px){
+.md-12 {
+    max-width: 100% !important;
+    padding: 0px 20px !important;
+}
+.sm-padd{
+	padding-left: 10px !important;
+}
+}
+
+@media (min-width: 768px){
+	.sm-pad{
+		padding-left: 10px !important;
+	}
+/***for about page ****/
+section{
+	padding-right: 25px !important;
+	padding-left: 13px;
+}
+}
+/****for contacts page******/
+@media (max-width: 1200px){
+	.content-maintain-f{
+		display: none; !important;
+	}
+	.content-maintain{
+		display: block !important;
+		padding-top: 50px !important;
+	}
+	section{
+		padding:0 20px !important;
+	}
+
+}
+
+/****for contacts page end ******/
